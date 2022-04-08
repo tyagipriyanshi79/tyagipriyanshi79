@@ -1,68 +1,73 @@
-<h1 align="center">Hi 👋, I'm Priyanshi</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tyagipriyanshi79&theme=react-dark&hide_border=true&area=true)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshi</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-## About Me
-<h3 align="center">Active Learner</h3>
 
-## 📫 Find me at:
+## 🙋‍♂️ About Me
 
-<table>
-  <tr>
-    <a href="https://www.linkedin.com/in/priyanshi-tyagi-7665ba1a3/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+- 🔭 I’m currently working on **[crypto Tracker](https://github.com/tyagipriyanshi79/Crypto-tracker-)**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me **tyagipriyanshi79@gmail.com**
+
+- ⚡ Fun fact **I love to sing songs**
+
+## 🚀 Languages and Tools:
+
+<p align="left">
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+</p>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+<p align="center">
+    <a href="https://github.com/tyagipriyanshi79/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tyagipriyanshi79&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/tyagipriyanshi79/github-readme-stats"><img alt="Priyanshi Tyagi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tyagipriyanshi79&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tyagipriyanshi79/github-readme-stats"><img alt="Priyanshi Tyagi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagipriyanshi79&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/tyagipriyanshi79/github-readme-activity-graph"><img alt="Priyanshi Tyagi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tyagipriyanshi79&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/priyanshi-tyagi-7665ba1a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/priyans98772031"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=tyagipriyanshi79">
 </a>
-<a href="mailto:tyagipriyanshi79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
-</table>
-
-
-### My Tech-Stack:
-
-* Frontend Frameworks
-
-  ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-* Languages and Tools
-
-  ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-* Backend Frameworks
-
-  ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-* Database
-
-  ![mysql](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white)
-  ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-* Cloud and Hosting services
-
-  ![image](https://img.shields.io/badge/Cluster-430098?style=for-the-badge&logo=Cluster&logoColor=white)
-
-## 🔭 I’m currently working on
-* [Crypto-tracker](https://github.com/tyagipriyanshi79/Crypto-tracker-)
-
-## 🌱 I’m currently learning
-
-* React
-* NodeJS
-
-<a href="https://github.com/tyagipriyanshi79">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tyagipriyanshi79&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Uzair's github stats"/>
-</a>
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tyagipriyanshi79&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyagipriyanshi79&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5" alt="tyagipriyanshi79" /></p>
-
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
-</div>
