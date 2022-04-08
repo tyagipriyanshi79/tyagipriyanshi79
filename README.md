@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tyagipriyanshi79@gmail.com**
 
-- ⚡ Fun fact **I love to sing songs**
+- ⚡ Fun fact **I love to sing **
 
 ## 🚀 Languages and Tools:
 
