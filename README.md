@@ -1,37 +1,76 @@
-<h1 align="center">Hi 👋, I'm Priyanshi Tyagi</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Priyanshi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyagipriyanshi79&label=Profile%20views&color=0e75b6&style=flat" alt="tyagipriyanshi79" /> </p>
+![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunal4now&theme=react-dark&hide_border=true&area=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyagipriyanshi79" alt="tyagipriyanshi79" /></a> </p>
+## About Me
+<h3 align="center">Active Learner</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 📫 Find me at:
 
-- 🔭 I’m currently working on [Quokka](https://github.com/tyagipriyanshi79/Quokka)
+<table>
+  <tr>
+    <a href="https://www.linkedin.com/in/priyanshi-tyagi-7665ba1a3/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:tyagipriyanshi79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
+</table>
 
-- 🌱 I’m currently learning **Nodejs,Expressjs, Reactjs, MongoDB**
 
-- 🤝 I’m looking for help with [Quokka](https://github.com/tyagipriyanshi79/Quokka)
+### My Tech-Stack:
 
-- 👨‍💻 All of my projects are available at [https://github.com/tyagipriyanshi79](https://github.com/tyagipriyanshi79)
+* Frontend Frameworks
 
-- 💬 Ask me about **C++, Reactjs, Data Structure,Algorithms**
+  ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-- 📫 How to reach me **priyanshityagi16@gmail.com**
+* Languages and Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/priyanshi-tyagi-7665ba1a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshi-tyagi-7665ba1a3/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codemaker22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/codemaker22" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codemaker22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/codemaker22" height="30" width="40" /></a>
-<a href="https://leetcode.com/codemaker23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/codemaker23/" height="30" width="40" /></a>
-</p>
+  ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+* Backend Frameworks
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyagipriyanshi79&show_icons=true&locale=en&layout=compact" alt="tyagipriyanshi79" /></p>
+  ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyagipriyanshi79&show_icons=true&locale=en" alt="tyagipriyanshi79" /></p>
+* Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyagipriyanshi79&" alt="tyagipriyanshi79" /></p>
+  ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+* CI / CD
+
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+
+* Cloud and Hosting services
+
+  ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+## 🔭 I’m currently working on
+* [Crypto-tracker](https://github.com/tyagipriyanshi79/Crypto-tracker-)
+
+## 🌱 I’m currently learning
+
+* React
+* NodeJS
+
+<a href="https://github.com/tyagipriyanshi79">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tyagipriyanshi79&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Uzair's github stats"/>
+</a>
+
+<br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tyagipriyanshi79&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyagipriyanshi79&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5" alt="tyagipriyanshi79" /></p>
+
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+
+</div>
