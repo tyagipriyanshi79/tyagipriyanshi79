@@ -21,14 +21,11 @@
 * Frontend Frameworks
 
   ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 * Languages and Tools
 
   ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 * Backend Frameworks
 
@@ -37,7 +34,7 @@
 
 * Database
 
-  ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![mysql](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white)
   ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 * CI / CD
@@ -47,7 +44,7 @@
 
 * Cloud and Hosting services
 
-  ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![image](https://img.shields.io/badge/Cluster-430098?style=for-the-badge&logo=Cluster&logoColor=white)
 
 ## 🔭 I’m currently working on
 * [Crypto-tracker](https://github.com/tyagipriyanshi79/Crypto-tracker-)
