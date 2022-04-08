@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshi</h1>
 
-![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunal4now&theme=react-dark&hide_border=true&area=true)
+![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tyagipriyanshi79&theme=react-dark&hide_border=true&area=true)
 
 ## About Me
 <h3 align="center">Active Learner</h3>
