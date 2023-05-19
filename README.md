@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **tyagipriyanshi79@gmail.com**
+- 📫 How to reach me **priyanshityagiofficial4567gmail.com**
 
 - ⚡ Fun fact **I love to sing **
 
